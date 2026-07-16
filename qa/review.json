@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21980,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 484
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21884,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 517
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21911,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 555
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21766,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 539
+        },
+        {
+          "index": 4,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21667,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 540
+        },
+        {
+          "index": 5,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21654,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 611
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22964,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 903
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22188,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 810
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22451,
+          "bbox": [
+            7,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 863
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21884,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 849
+        },
+        {
+          "index": 4,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22015,
+          "bbox": [
+            5,
+            7,
+            187,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 817
+        },
+        {
+          "index": 5,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20475,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 754
+        },
+        {
+          "index": 6,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22193,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 868
+        },
+        {
+          "index": 7,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20512,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 779
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22903,
+          "bbox": [
+            7,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 884
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22005,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 796
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22310,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 835
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21673,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 826
+        },
+        {
+          "index": 4,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22680,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 831
+        },
+        {
+          "index": 5,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20519,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 762
+        },
+        {
+          "index": 6,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18228,
+          "bbox": [
+            5,
+            16,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 761
+        },
+        {
+          "index": 7,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20512,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 779
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21730,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 319
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21618,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 303
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21904,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 311
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21923,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 369
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20613,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 470
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18713,
+          "bbox": [
+            5,
+            12,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 468
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20704,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 464
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20873,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 575
+        },
+        {
+          "index": 4,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20141,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 439
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20644,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 629
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20835,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 582
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21781,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 565
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25010,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 570
+        },
+        {
+          "index": 4,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24660,
+          "bbox": [
+            5,
+            13,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 629
+        },
+        {
+          "index": 5,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24057,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 570
+        },
+        {
+          "index": 6,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21141,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 547
+        },
+        {
+          "index": 7,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20718,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 578
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21622,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 625
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21661,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 651
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21613,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 697
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21822,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 703
+        },
+        {
+          "index": 4,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24134,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 723
+        },
+        {
+          "index": 5,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21501,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 681
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20933,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 413
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20877,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 459
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20940,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 386
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20978,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 450
+        },
+        {
+          "index": 4,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20676,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 452
+        },
+        {
+          "index": 5,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20874,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 422
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22015,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 467
+        },
+        {
+          "index": 1,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22958,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 476
+        },
+        {
+          "index": 2,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22106,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 542
+        },
+        {
+          "index": 3,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21638,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 550
+        },
+        {
+          "index": 4,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21495,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 503
+        },
+        {
+          "index": 5,
+          "file": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21767,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        }
+      ]
+    }
+  ]
+}

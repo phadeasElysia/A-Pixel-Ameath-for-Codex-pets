@@ -1,0 +1,825 @@
+{
+  "ok": true,
+  "reviewRequired": true,
+  "medianDiffPixels": 4130.5,
+  "warnings": [
+    "000 has transparent interior hole rows (y=106, y=107, y=180, y=181, +6 more)",
+    "022.5 has transparent interior hole rows (y=185, y=186)",
+    "045 has transparent interior hole rows (y=112, y=113, y=114, y=115, +12 more)",
+    "067.5 has transparent interior hole rows (y=114, y=115, y=116, y=117, +7 more)",
+    "090 has transparent interior hole rows (y=114, y=115, y=116, y=117, +9 more)",
+    "112.5 has transparent interior hole rows (y=158, y=159, y=160, y=161, +14 more)",
+    "135 has transparent interior hole rows (y=177, y=178)",
+    "157.5 has transparent interior hole rows (y=160, y=161, y=162, y=172, +5 more)",
+    "180 has transparent interior hole rows (y=189)",
+    "292.5 has transparent interior hole rows (y=181, y=182, y=183, y=184, +3 more)",
+    "315 has transparent interior hole rows (y=163, y=164, y=165, y=166, +9 more)",
+    "337.5 has transparent interior hole rows (y=163, y=164, y=165, y=166, +12 more)",
+    "022.5->045 diff is a local outlier (10521 pixels vs neighbor average 4990)",
+    "022.5->045 center shift is high (22.1px)",
+    "157.5->180 diff is a local outlier (8897 pixels vs neighbor average 3528)",
+    "157.5->180 center shift is high (15.3px)",
+    "270->292.5 diff is a local outlier (5459 pixels vs neighbor average 2982)",
+    "337.5->000 diff is a local outlier (8251 pixels vs neighbor average 3923)",
+    "337.5->000 center shift is high (14.1px)",
+    "337.5->000 sprite area ratio is high (1.32)"
+  ],
+  "alphaHoles": [
+    {
+      "direction": "000",
+      "holes": [
+        {
+          "row": 106,
+          "transparentPixels": 38,
+          "spanPixels": 148
+        },
+        {
+          "row": 107,
+          "transparentPixels": 40,
+          "spanPixels": 149
+        },
+        {
+          "row": 180,
+          "transparentPixels": 35,
+          "spanPixels": 138
+        },
+        {
+          "row": 181,
+          "transparentPixels": 37,
+          "spanPixels": 138
+        },
+        {
+          "row": 182,
+          "transparentPixels": 42,
+          "spanPixels": 138
+        },
+        {
+          "row": 183,
+          "transparentPixels": 49,
+          "spanPixels": 136
+        },
+        {
+          "row": 184,
+          "transparentPixels": 53,
+          "spanPixels": 133
+        },
+        {
+          "row": 185,
+          "transparentPixels": 56,
+          "spanPixels": 132
+        },
+        {
+          "row": 186,
+          "transparentPixels": 48,
+          "spanPixels": 104
+        },
+        {
+          "row": 187,
+          "transparentPixels": 52,
+          "spanPixels": 103
+        }
+      ]
+    },
+    {
+      "direction": "022.5",
+      "holes": [
+        {
+          "row": 185,
+          "transparentPixels": 34,
+          "spanPixels": 92
+        },
+        {
+          "row": 186,
+          "transparentPixels": 36,
+          "spanPixels": 92
+        }
+      ]
+    },
+    {
+      "direction": "045",
+      "holes": [
+        {
+          "row": 112,
+          "transparentPixels": 47,
+          "spanPixels": 146
+        },
+        {
+          "row": 113,
+          "transparentPixels": 55,
+          "spanPixels": 145
+        },
+        {
+          "row": 114,
+          "transparentPixels": 52,
+          "spanPixels": 144
+        },
+        {
+          "row": 115,
+          "transparentPixels": 47,
+          "spanPixels": 143
+        },
+        {
+          "row": 116,
+          "transparentPixels": 36,
+          "spanPixels": 143
+        },
+        {
+          "row": 164,
+          "transparentPixels": 35,
+          "spanPixels": 136
+        },
+        {
+          "row": 165,
+          "transparentPixels": 35,
+          "spanPixels": 137
+        },
+        {
+          "row": 166,
+          "transparentPixels": 35,
+          "spanPixels": 137
+        },
+        {
+          "row": 172,
+          "transparentPixels": 36,
+          "spanPixels": 138
+        },
+        {
+          "row": 173,
+          "transparentPixels": 36,
+          "spanPixels": 138
+        },
+        {
+          "row": 174,
+          "transparentPixels": 37,
+          "spanPixels": 137
+        },
+        {
+          "row": 175,
+          "transparentPixels": 37,
+          "spanPixels": 137
+        },
+        {
+          "row": 176,
+          "transparentPixels": 38,
+          "spanPixels": 136
+        },
+        {
+          "row": 177,
+          "transparentPixels": 39,
+          "spanPixels": 135
+        },
+        {
+          "row": 178,
+          "transparentPixels": 41,
+          "spanPixels": 134
+        },
+        {
+          "row": 179,
+          "transparentPixels": 45,
+          "spanPixels": 132
+        }
+      ]
+    },
+    {
+      "direction": "067.5",
+      "holes": [
+        {
+          "row": 114,
+          "transparentPixels": 44,
+          "spanPixels": 136
+        },
+        {
+          "row": 115,
+          "transparentPixels": 49,
+          "spanPixels": 137
+        },
+        {
+          "row": 116,
+          "transparentPixels": 47,
+          "spanPixels": 136
+        },
+        {
+          "row": 117,
+          "transparentPixels": 41,
+          "spanPixels": 136
+        },
+        {
+          "row": 178,
+          "transparentPixels": 34,
+          "spanPixels": 135
+        },
+        {
+          "row": 179,
+          "transparentPixels": 36,
+          "spanPixels": 135
+        },
+        {
+          "row": 180,
+          "transparentPixels": 39,
+          "spanPixels": 134
+        },
+        {
+          "row": 181,
+          "transparentPixels": 44,
+          "spanPixels": 133
+        },
+        {
+          "row": 182,
+          "transparentPixels": 48,
+          "spanPixels": 131
+        },
+        {
+          "row": 183,
+          "transparentPixels": 55,
+          "spanPixels": 130
+        },
+        {
+          "row": 184,
+          "transparentPixels": 59,
+          "spanPixels": 127
+        }
+      ]
+    },
+    {
+      "direction": "090",
+      "holes": [
+        {
+          "row": 114,
+          "transparentPixels": 35,
+          "spanPixels": 120
+        },
+        {
+          "row": 115,
+          "transparentPixels": 43,
+          "spanPixels": 122
+        },
+        {
+          "row": 116,
+          "transparentPixels": 46,
+          "spanPixels": 135
+        },
+        {
+          "row": 117,
+          "transparentPixels": 36,
+          "spanPixels": 135
+        },
+        {
+          "row": 167,
+          "transparentPixels": 33,
+          "spanPixels": 122
+        },
+        {
+          "row": 169,
+          "transparentPixels": 33,
+          "spanPixels": 126
+        },
+        {
+          "row": 180,
+          "transparentPixels": 34,
+          "spanPixels": 129
+        },
+        {
+          "row": 181,
+          "transparentPixels": 38,
+          "spanPixels": 128
+        },
+        {
+          "row": 182,
+          "transparentPixels": 40,
+          "spanPixels": 127
+        },
+        {
+          "row": 183,
+          "transparentPixels": 42,
+          "spanPixels": 126
+        },
+        {
+          "row": 184,
+          "transparentPixels": 45,
+          "spanPixels": 123
+        },
+        {
+          "row": 185,
+          "transparentPixels": 50,
+          "spanPixels": 122
+        },
+        {
+          "row": 186,
+          "transparentPixels": 42,
+          "spanPixels": 104
+        }
+      ]
+    },
+    {
+      "direction": "112.5",
+      "holes": [
+        {
+          "row": 158,
+          "transparentPixels": 37,
+          "spanPixels": 128
+        },
+        {
+          "row": 159,
+          "transparentPixels": 36,
+          "spanPixels": 129
+        },
+        {
+          "row": 160,
+          "transparentPixels": 37,
+          "spanPixels": 130
+        },
+        {
+          "row": 161,
+          "transparentPixels": 38,
+          "spanPixels": 131
+        },
+        {
+          "row": 162,
+          "transparentPixels": 38,
+          "spanPixels": 131
+        },
+        {
+          "row": 163,
+          "transparentPixels": 37,
+          "spanPixels": 131
+        },
+        {
+          "row": 164,
+          "transparentPixels": 37,
+          "spanPixels": 130
+        },
+        {
+          "row": 165,
+          "transparentPixels": 35,
+          "spanPixels": 130
+        },
+        {
+          "row": 170,
+          "transparentPixels": 34,
+          "spanPixels": 128
+        },
+        {
+          "row": 171,
+          "transparentPixels": 37,
+          "spanPixels": 128
+        },
+        {
+          "row": 172,
+          "transparentPixels": 38,
+          "spanPixels": 129
+        },
+        {
+          "row": 173,
+          "transparentPixels": 39,
+          "spanPixels": 128
+        },
+        {
+          "row": 174,
+          "transparentPixels": 39,
+          "spanPixels": 128
+        },
+        {
+          "row": 175,
+          "transparentPixels": 39,
+          "spanPixels": 128
+        },
+        {
+          "row": 176,
+          "transparentPixels": 41,
+          "spanPixels": 126
+        },
+        {
+          "row": 177,
+          "transparentPixels": 43,
+          "spanPixels": 125
+        },
+        {
+          "row": 178,
+          "transparentPixels": 47,
+          "spanPixels": 123
+        },
+        {
+          "row": 179,
+          "transparentPixels": 51,
+          "spanPixels": 121
+        }
+      ]
+    },
+    {
+      "direction": "135",
+      "holes": [
+        {
+          "row": 177,
+          "transparentPixels": 35,
+          "spanPixels": 110
+        },
+        {
+          "row": 178,
+          "transparentPixels": 37,
+          "spanPixels": 107
+        }
+      ]
+    },
+    {
+      "direction": "157.5",
+      "holes": [
+        {
+          "row": 160,
+          "transparentPixels": 35,
+          "spanPixels": 126
+        },
+        {
+          "row": 161,
+          "transparentPixels": 35,
+          "spanPixels": 126
+        },
+        {
+          "row": 162,
+          "transparentPixels": 33,
+          "spanPixels": 127
+        },
+        {
+          "row": 172,
+          "transparentPixels": 33,
+          "spanPixels": 117
+        },
+        {
+          "row": 173,
+          "transparentPixels": 33,
+          "spanPixels": 116
+        },
+        {
+          "row": 174,
+          "transparentPixels": 34,
+          "spanPixels": 115
+        },
+        {
+          "row": 175,
+          "transparentPixels": 35,
+          "spanPixels": 113
+        },
+        {
+          "row": 176,
+          "transparentPixels": 38,
+          "spanPixels": 110
+        },
+        {
+          "row": 177,
+          "transparentPixels": 40,
+          "spanPixels": 109
+        }
+      ]
+    },
+    {
+      "direction": "180",
+      "holes": [
+        {
+          "row": 189,
+          "transparentPixels": 33,
+          "spanPixels": 78
+        }
+      ]
+    },
+    {
+      "direction": "292.5",
+      "holes": [
+        {
+          "row": 181,
+          "transparentPixels": 34,
+          "spanPixels": 121
+        },
+        {
+          "row": 182,
+          "transparentPixels": 37,
+          "spanPixels": 119
+        },
+        {
+          "row": 183,
+          "transparentPixels": 40,
+          "spanPixels": 118
+        },
+        {
+          "row": 184,
+          "transparentPixels": 43,
+          "spanPixels": 117
+        },
+        {
+          "row": 185,
+          "transparentPixels": 44,
+          "spanPixels": 115
+        },
+        {
+          "row": 186,
+          "transparentPixels": 51,
+          "spanPixels": 113
+        },
+        {
+          "row": 187,
+          "transparentPixels": 40,
+          "spanPixels": 95
+        }
+      ]
+    },
+    {
+      "direction": "315",
+      "holes": [
+        {
+          "row": 163,
+          "transparentPixels": 36,
+          "spanPixels": 122
+        },
+        {
+          "row": 164,
+          "transparentPixels": 35,
+          "spanPixels": 123
+        },
+        {
+          "row": 165,
+          "transparentPixels": 34,
+          "spanPixels": 124
+        },
+        {
+          "row": 166,
+          "transparentPixels": 36,
+          "spanPixels": 124
+        },
+        {
+          "row": 167,
+          "transparentPixels": 34,
+          "spanPixels": 126
+        },
+        {
+          "row": 178,
+          "transparentPixels": 34,
+          "spanPixels": 128
+        },
+        {
+          "row": 179,
+          "transparentPixels": 37,
+          "spanPixels": 128
+        },
+        {
+          "row": 180,
+          "transparentPixels": 40,
+          "spanPixels": 127
+        },
+        {
+          "row": 181,
+          "transparentPixels": 44,
+          "spanPixels": 127
+        },
+        {
+          "row": 182,
+          "transparentPixels": 47,
+          "spanPixels": 126
+        },
+        {
+          "row": 183,
+          "transparentPixels": 51,
+          "spanPixels": 124
+        },
+        {
+          "row": 184,
+          "transparentPixels": 56,
+          "spanPixels": 122
+        },
+        {
+          "row": 185,
+          "transparentPixels": 60,
+          "spanPixels": 121
+        }
+      ]
+    },
+    {
+      "direction": "337.5",
+      "holes": [
+        {
+          "row": 163,
+          "transparentPixels": 37,
+          "spanPixels": 129
+        },
+        {
+          "row": 164,
+          "transparentPixels": 37,
+          "spanPixels": 129
+        },
+        {
+          "row": 165,
+          "transparentPixels": 38,
+          "spanPixels": 130
+        },
+        {
+          "row": 166,
+          "transparentPixels": 35,
+          "spanPixels": 130
+        },
+        {
+          "row": 167,
+          "transparentPixels": 36,
+          "spanPixels": 131
+        },
+        {
+          "row": 168,
+          "transparentPixels": 35,
+          "spanPixels": 133
+        },
+        {
+          "row": 169,
+          "transparentPixels": 34,
+          "spanPixels": 134
+        },
+        {
+          "row": 177,
+          "transparentPixels": 35,
+          "spanPixels": 135
+        },
+        {
+          "row": 178,
+          "transparentPixels": 38,
+          "spanPixels": 135
+        },
+        {
+          "row": 179,
+          "transparentPixels": 41,
+          "spanPixels": 134
+        },
+        {
+          "row": 180,
+          "transparentPixels": 42,
+          "spanPixels": 133
+        },
+        {
+          "row": 181,
+          "transparentPixels": 48,
+          "spanPixels": 132
+        },
+        {
+          "row": 182,
+          "transparentPixels": 51,
+          "spanPixels": 131
+        },
+        {
+          "row": 183,
+          "transparentPixels": 56,
+          "spanPixels": 130
+        },
+        {
+          "row": 184,
+          "transparentPixels": 59,
+          "spanPixels": 127
+        },
+        {
+          "row": 185,
+          "transparentPixels": 63,
+          "spanPixels": 126
+        }
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "from": "000",
+      "to": "022.5",
+      "firstPixels": 21405,
+      "secondPixels": 19856,
+      "diffPixels": 5297,
+      "centerDelta": 7.648529270389178,
+      "areaRatio": 1.078011684125705
+    },
+    {
+      "from": "022.5",
+      "to": "045",
+      "firstPixels": 19856,
+      "secondPixels": 19034,
+      "diffPixels": 10521,
+      "centerDelta": 22.090722034374522,
+      "areaRatio": 1.0431858779027003
+    },
+    {
+      "from": "045",
+      "to": "067.5",
+      "firstPixels": 19034,
+      "secondPixels": 17182,
+      "diffPixels": 4682,
+      "centerDelta": 4.272001872658765,
+      "areaRatio": 1.1077872191828657
+    },
+    {
+      "from": "067.5",
+      "to": "090",
+      "firstPixels": 17182,
+      "secondPixels": 17430,
+      "diffPixels": 3555,
+      "centerDelta": 2.9154759474226504,
+      "areaRatio": 1.0144337096961937
+    },
+    {
+      "from": "090",
+      "to": "112.5",
+      "firstPixels": 17430,
+      "secondPixels": 16493,
+      "diffPixels": 5114,
+      "centerDelta": 6.800735254367722,
+      "areaRatio": 1.0568119808403564
+    },
+    {
+      "from": "112.5",
+      "to": "135",
+      "firstPixels": 16493,
+      "secondPixels": 15700,
+      "diffPixels": 4211,
+      "centerDelta": 6.96419413859206,
+      "areaRatio": 1.0505095541401275
+    },
+    {
+      "from": "135",
+      "to": "157.5",
+      "firstPixels": 15700,
+      "secondPixels": 15617,
+      "diffPixels": 4050,
+      "centerDelta": 6.946221994724902,
+      "areaRatio": 1.0053147211372222
+    },
+    {
+      "from": "157.5",
+      "to": "180",
+      "firstPixels": 15617,
+      "secondPixels": 17398,
+      "diffPixels": 8897,
+      "centerDelta": 15.305227865013967,
+      "areaRatio": 1.1140423897035283
+    },
+    {
+      "from": "180",
+      "to": "202.5",
+      "firstPixels": 17398,
+      "secondPixels": 17147,
+      "diffPixels": 3007,
+      "centerDelta": 2.0,
+      "areaRatio": 1.0146381291187963
+    },
+    {
+      "from": "202.5",
+      "to": "225",
+      "firstPixels": 17147,
+      "secondPixels": 16476,
+      "diffPixels": 2885,
+      "centerDelta": 1.118033988749895,
+      "areaRatio": 1.0407259043457149
+    },
+    {
+      "from": "225",
+      "to": "247.5",
+      "firstPixels": 16476,
+      "secondPixels": 15694,
+      "diffPixels": 2286,
+      "centerDelta": 1.0,
+      "areaRatio": 1.049827959729833
+    },
+    {
+      "from": "247.5",
+      "to": "270",
+      "firstPixels": 15694,
+      "secondPixels": 15707,
+      "diffPixels": 3302,
+      "centerDelta": 4.5,
+      "areaRatio": 1.0008283420415445
+    },
+    {
+      "from": "270",
+      "to": "292.5",
+      "firstPixels": 15707,
+      "secondPixels": 15733,
+      "diffPixels": 5459,
+      "centerDelta": 4.743416490252569,
+      "areaRatio": 1.0016553129178074
+    },
+    {
+      "from": "292.5",
+      "to": "315",
+      "firstPixels": 15733,
+      "secondPixels": 15748,
+      "diffPixels": 2662,
+      "centerDelta": 1.8027756377319946,
+      "areaRatio": 1.0009534100298736
+    },
+    {
+      "from": "315",
+      "to": "337.5",
+      "firstPixels": 15748,
+      "secondPixels": 16214,
+      "diffPixels": 2549,
+      "centerDelta": 1.118033988749895,
+      "areaRatio": 1.0295910591821185
+    },
+    {
+      "from": "337.5",
+      "to": "000",
+      "firstPixels": 16214,
+      "secondPixels": 21405,
+      "diffPixels": 8251,
+      "centerDelta": 14.142135623730951,
+      "areaRatio": 1.320155421240903
+    }
+  ]
+}

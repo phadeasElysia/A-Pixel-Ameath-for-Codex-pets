@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run",
+  "spritesheet": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/final/spritesheet-extended.webp",
+  "validation": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/final/validation-extended.json",
+  "chroma_despill": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/qa/look-directions.png",
+  "direction_semantics": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/qa/direction-blind-validation.json",
+  "continuity": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/qa/look-continuity.json",
+  "review": "/Users/phadeas/Documents/Codex/2026-07-16/hatch-pet-users-phadeas-codex-skills/work/aemeath-pixel-pet-run/qa/review.json",
+  "package": "/Users/phadeas/.codex/pets/aemeath-pixel"
+}

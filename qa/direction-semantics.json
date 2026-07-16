@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "review_status": "independent-final-visual-qa-pass",
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"up","horizontal_evidence":"Frontal and centered, as expected for the vertical cardinal.","vertical_evidence":"Both amber eye surfaces and pupils press toward the upper lids; chin and face plane are visibly raised."},
+    {"direction":"022.5","verdict":"warning","expected":"up-right","observed":"up with subtle screen-right component","horizontal_evidence":"Face plane and near eye begin shifting screen-right, but blind consensus found the cue subtle.","vertical_evidence":"Eyes and chin remain clearly raised."},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"up-right","horizontal_evidence":"Nose, eye, and face plane project screen-right.","vertical_evidence":"Chin and eye line remain elevated."},
+    {"direction":"067.5","verdict":"warning","expected":"up-right","observed":"right with subtle up component","horizontal_evidence":"Strong screen-right three-quarter face approaches the right cardinal.","vertical_evidence":"Raised eye/chin cue is present but one blind majority found this axis ambiguous."},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"right","horizontal_evidence":"Unmistakable screen-right profile with nose and chin beyond head center.","vertical_evidence":"Level pitch appropriate for the horizontal cardinal."},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"Face remains clearly screen-right.","vertical_evidence":"Eye line and chin begin a visible downward pitch."},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"Nose and visible face plane remain screen-right.","vertical_evidence":"Head and gaze tuck farther down."},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"Bowed face still projects screen-right.","vertical_evidence":"Strong downward tuck lands before the down cardinal."},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"down","horizontal_evidence":"Frontal and centered, as expected for the vertical cardinal.","vertical_evidence":"Closed lowered lids and deeply tucked chin make down unmistakable."},
+    {"direction":"202.5","verdict":"warning","expected":"down-left","observed":"down with subtle screen-left component","horizontal_evidence":"Nose and face plane begin moving screen-left, but blind consensus found the cue subtle.","vertical_evidence":"Lowered eye line and chin clearly preserve down."},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"down-left","horizontal_evidence":"Nose, eye, and cheek plane project screen-left.","vertical_evidence":"Head remains visibly bowed."},
+    {"direction":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","horizontal_evidence":"Stronger screen-left yaw approaches the left cardinal.","vertical_evidence":"Eye and chin remain below level."},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"left","horizontal_evidence":"Unmistakable screen-left profile with nose and chin beyond head center.","vertical_evidence":"Level pitch appropriate for the horizontal cardinal."},
+    {"direction":"292.5","verdict":"pass","expected":"up-left","observed":"up-left","horizontal_evidence":"Face stays screen-left after the cardinal.","vertical_evidence":"Eye and chin begin lifting."},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"up-left","horizontal_evidence":"Nose and visible eye remain screen-left.","vertical_evidence":"Raised chin and eye line are clearly readable."},
+    {"direction":"337.5","verdict":"pass","expected":"up-left","observed":"up-left","horizontal_evidence":"Subtle screen-left three-quarter face lands before frontal up.","vertical_evidence":"Eyes and chin remain raised for the wrap into 000."}
+  ],
+  "ordered_loop_review": "Pass: the independent final visual reviewer confirmed no wrong cardinal, wrong-quadrant pose, visible reversal, broken attachment, seam band, accidental filled-body hole, or conspicuous continuity pop. Intermediate blind ambiguity remains recorded as accepted warnings.",
+  "independent_review_note": "All standard motions preserve Aemeath's pixel identity and state semantics; the 16-direction loop is coherent, unclipped, correctly anchored, and free of visible seams or accidental body holes."
+}
